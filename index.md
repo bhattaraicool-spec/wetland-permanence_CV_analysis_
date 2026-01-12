@@ -15,7 +15,7 @@ spectral indices and temporal variability.
 
 ## Study Area
 The study focuses on wetland systems analyzed using Sentinel-2 imagery acquired
-across multiple seasons.
+across multiple seasons in Brookings County, SD.
 
 ---
 
